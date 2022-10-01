@@ -1,6 +1,6 @@
 <h1 align="center">Tyler Chan</h1>
 <div align="center">
-  -== <a href="http://tylerchan.me">Website (Redirects Here)</a> -=-
+  -== <a href="http://tylerchan.me">Website (Redirects Here For Now)</a> -=-
   <a href="https://github.com/DeBestTrap/DeBestTrap/blob/main/resume_09-30-22_2.pdf">Resume</a> -=-
   <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">LinkedIn</a> -=-
   <a href="mailto:tyler@tylerchan.me">tyler@tylerchan.me</a> ==-
@@ -13,5 +13,32 @@ I am currently a Junior by year and Senior by credit persuing a Dual in Computer
 * Learning the web framework, Django to develop a website for my custom domain.
 * [Overlord Bot](https://github.com/jwgit9/Overlord-Bot), a Discord bot developed by RPI students in RCOS.
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
+* Utilizing Stable Diffusion for a Discord Bot.
+
+## Previous Projects:
+# [Automatic Pill Dispenser](https://github.com/DeBestTrap/pill-dispenser)
+<div align="center"><img src="./images/apd_cad.png"/></div>
+<div align="center"><img src="./images/apd_housing_unit.png"/></div>
+
+Programmed an Arduino microcontroller in a semester
+long design project for IED, the APD to control the dispensing of
+pills and interfacing with a touch-screen display.
+
+# [Sekaidle Bot](https://github.com/DeBestTrap/sekaidle)
+![invalid.gif](https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif)
+
+Recreated the country guessing game, [Wordle](https://github.com/teuteuf/worldle), that can be
+played in discord. Implemented a dynamic programming algorithm to
+find the most similar country names and suggest them
+to the user to make up for the lack of an autocorrect
+feature.
+    
+# [Ferris Bot](https://github.com/DeBestTrap/ferris-bot)
+<img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width="50%" height="50%"/>
+
+Created a Discord bot with a polling system that updates
+live when users vote.
+
+# [Scratch Pong](https://github.com/DeBestTrap/scratch-pong)
 
 If you want to learn more about my previous work checkout my [resume](https://github.com/DeBestTrap/DeBestTrap/blob/main/resume_09-29-22.pdf)
