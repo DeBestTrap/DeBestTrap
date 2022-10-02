@@ -16,17 +16,30 @@ I am currently a Junior by year and Senior by credit persuing a Dual in Computer
 * Utilizing Stable Diffusion for a Discord Bot.
 
 ## Previous Projects:
+# [OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)
+<div align="center">
+  <img src="https://i.gyazo.com/2d6c58e691f385671be162ad7f639b07.gif" width=25% height=25%/>
+</div>
+
+Improved the busing feature by programming the ability
+to select components instead individual ports to bus.
+
+
 # [Automatic Pill Dispenser](https://github.com/DeBestTrap/pill-dispenser)
-<div align="center"><img src="./images/apd_cad.png"/></div>
-<div align="center"><img src="./images/apd_housing_unit.png"/></div>
+<div align="center">
+  <img src="./images/apd_cad.png" width=25% height=25%/>
+  <img src="./images/apd_housing_unit.png" width=25% height=25%/>
+</div>
 
 Programmed an Arduino microcontroller in a semester
 long design project for IED, the APD to control the dispensing of
 pills and interfacing with a touch-screen display.
 
 # [Sekaidle Bot](https://github.com/DeBestTrap/sekaidle)
-![invalid.gif](https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif)
-
+<div align="center">
+  <img src="https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif" width=35% height=35%/>
+</div>
+  
 Recreated the country guessing game, [Wordle](https://github.com/teuteuf/worldle), that can be
 played in discord. Implemented a dynamic programming algorithm to
 find the most similar country names and suggest them
@@ -34,11 +47,14 @@ to the user to make up for the lack of an autocorrect
 feature.
     
 # [Ferris Bot](https://github.com/DeBestTrap/ferris-bot)
-<img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width="50%" height="50%"/>
-
+<div align="center">
+  <img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width=25% height=25%/>
+</div>
+  
 Created a Discord bot with a polling system that updates
 live when users vote.
 
 # [Scratch Pong](https://github.com/DeBestTrap/scratch-pong)
-
-If you want to learn more about my previous work checkout my [resume](https://github.com/DeBestTrap/DeBestTrap/blob/main/resume_09-29-22.pdf)
+Recreated the classic game of pong on an Arduino Nano
+with buttons and a tiny 128x32 OLED display on a
+breadboard.
