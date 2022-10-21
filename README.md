@@ -15,8 +15,13 @@ I am currently a Junior by year and Senior by credit persuing a Dual in Computer
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
 * Utilizing Stable Diffusion for a Discord Bot.
 
-## Previous Projects:
+## Previous Projects and Work:
 # [OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)
+
+>OpenCircuits is an open source circuit designer created by [Leon Montealegre](https://leonmontealegre.com/), originally for an independent study for [Professor Paul Wilkinson](http://www.drpjw.org/) of Pasadena City College.
+
+Opencircuits is also a Rensselaer Center for Open Source (RCOS) project.
+
 <div align="center">
   <img src="https://i.gyazo.com/2d6c58e691f385671be162ad7f639b07.gif" width=25% height=25%/>
 </div>
@@ -26,6 +31,8 @@ to select components instead individual ports to bus.
 
 
 # [Automatic Pill Dispenser](https://github.com/DeBestTrap/pill-dispenser)
+The Automatic Pill Dispenser (APD) is a project done for the Intro to Engineering Design course at Rensselaer Polytechnic Institute during the Spring of 2022.
+
 <div align="center">
   <img src="./images/apd_cad.png" width=25% height=25%/>
   <img src="./images/apd_housing_unit.png" width=25% height=25%/>
@@ -36,23 +43,25 @@ long design project for IED, the APD to control the dispensing of
 pills and interfacing with a touch-screen display.
 
 # [Sekaidle Bot](https://github.com/DeBestTrap/sekaidle)
+Sekaidle is a game where the player gets a random country silhouette and must guess the country's name within six tries.
+
+This is a creation of the country guessing game, [Wordle](https://github.com/teuteuf/worldle), that can be played in discord.
+
 <div align="center">
   <img src="https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif" width=35% height=35%/>
 </div>
   
-Recreated the country guessing game, [Wordle](https://github.com/teuteuf/worldle), that can be
-played in discord. Implemented a dynamic programming algorithm to
+Implemented a dynamic programming algorithm to
 find the most similar country names and suggest them
 to the user to make up for the lack of an autocorrect
-feature.
+feature in discord.
     
 # [Ferris Bot](https://github.com/DeBestTrap/ferris-bot)
+Ferris is a simple bot that'whose purpose is to create and update polls live when users vote on a poll.
+
 <div align="center">
   <img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width=25% height=25%/>
 </div>
-  
-Created a Discord bot with a polling system that updates
-live when users vote.
 
 # [Scratch Pong](https://github.com/DeBestTrap/scratch-pong)
 Recreated the classic game of pong on an Arduino Nano
