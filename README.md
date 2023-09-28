@@ -1,13 +1,13 @@
 <h1 align="center">Tyler Chan</h1>
 <div align="center">
   -== <a href="http://tylerchan.me">Website (Redirects Here For Now)</a> -=-
-  <a href="https://github.com/DeBestTrap/DeBestTrap/blob/main/resume_10-01-22.pdf">Resume</a> -=-
+  <a href="https://github.com/DeBestTrap/DeBestTrap/blob/main/resume_23-09-28.pdf">Resume</a> -=-
   <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">LinkedIn</a> -=-
   <a href="mailto:tyler@tylerchan.me">tyler@tylerchan.me</a> ==-
 </div>
 
 ## Welcome! よこそう！ 欢迎光临！
-I am currently a Junior by year and Senior by credit persuing a Dual in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI). I am also planning on doing a Co-Term at RPI in CS specializing in ML.
+I am currently a Senior persuing a Dual in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI). I am also doing a Co-Term for my masters at RPI in CS specializing in ML.
 
 ## Currently working on:
 * Learning the web framework, Django to develop a website for my custom domain.
@@ -16,6 +16,13 @@ I am currently a Junior by year and Senior by credit persuing a Dual in Computer
 * Utilizing Stable Diffusion for a Discord Bot.
 
 ## Previous Projects and Work:
+# [Alpaca-LoRA WebUI](https://github.com/DeBestTrap/alpaca-lora/tree/webui)
+Created a WebUI with Gradio to more easily use, train
+and evaluate/benchmark LoRAs for large language models
+like GPT-2, LLaMA, GPT-J, etc.
+
+![](images/gradio_ui.png)
+
 # [OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)
 
 >OpenCircuits is an open source circuit designer created by [Leon Montealegre](https://leonmontealegre.com/), originally for an independent study for [Professor Paul Wilkinson](http://www.drpjw.org/) of Pasadena City College.
