@@ -7,13 +7,14 @@
 </div>
 
 ## Welcome! よこそう！ 欢迎光临！
-I am currently a Senior persuing a Dual in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI). I am also doing a Co-Term for my masters at RPI in CS specializing in ML.
+- I am currently a Senior persuing a Dual in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI).
+- I am also doing a Co-Term for my masters at RPI in CS specializing in Security and Privacy in ML.
+- My current research interests are in Generative AI like Large Language Models, Latent Diffusion Models, etc.
 
 ## Currently working on:
-* Learning the web framework, Django to develop a website for my custom domain.
-* [Overlord Bot](https://github.com/jwgit9/Overlord-Bot), a Discord bot developed by RPI students in RCOS.
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
 * Utilizing Stable Diffusion for a Discord Bot.
+* Making my personal website.
 
 ## Previous Projects and Work:
 # [Alpaca-LoRA WebUI](https://github.com/DeBestTrap/alpaca-lora/tree/webui)
