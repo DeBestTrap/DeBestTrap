@@ -81,7 +81,7 @@ to the user to make up for the lack of an autocorrect
 feature in discord.
     
 # [Ferris Bot](https://github.com/DeBestTrap/ferris-bot)
-Ferris is a simple bot that'whose purpose is to create and update polls live when users vote on a poll.
+Ferris is a simple bot whose purpose is to create and update polls live when users vote on a poll.
 
 <div align="center">
   <img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width=25% height=25%/>
