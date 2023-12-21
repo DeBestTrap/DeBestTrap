@@ -7,22 +7,38 @@
 </div>
 
 ## Welcome! よこそう！ 欢迎光临！
-- I am currently a Senior persuing a Dual in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI).
-- I am also doing a Co-Term for my masters at RPI in CS specializing in Security and Privacy in ML.
-- My current research interests are in Generative AI like Large Language Models, Latent Diffusion Models, etc.
+- I am currently a Senior persuing a Dual BS in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI).
+- I am also doing a Co-Term for my MS at RPI in CS for Security and Privacy in ML.
+- My current research interests are in Generative AI models like Large Language Models, Latent Diffusion Models, etc.
 
 ## Currently working on:
+* Working on [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)!
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
 * Utilizing Stable Diffusion for a Discord Bot.
 * Making my personal website.
 
 ## Previous Projects and Work:
+# [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)
+Created a pipeline to transform a simple description into a
+multi-scene movie complete with voice acting and videos, all
+generated with SOTA tools.
+
+<div align="center">
+  <img src="images/pizza.gif"/>
+  <p>Italian mobsters start an advertisement for a pizza company</p>
+</div>
+
+
+Check out the site for more results and sound!
+
 # [Alpaca-LoRA WebUI](https://github.com/DeBestTrap/alpaca-lora/tree/webui)
 Created a WebUI with Gradio to more easily use, train
 and evaluate/benchmark LoRAs for large language models
 like GPT-2, LLaMA, GPT-J, etc.
 
-![](images/gradio_ui.png)
+<div align="center">
+  <img src="images/gradio_ui.png" width=400px>
+</div>
 
 # [OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)
 
