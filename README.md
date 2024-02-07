@@ -1,7 +1,7 @@
 <h1 align="center">Tyler Chan</h1>
 <div align="center">
-  -== <a href="http://tylerchan.me">Website (Redirects Here For Now)</a> -=-
-  <a href="resume_23-12-21.pdf">Resume</a> -=-
+  -== <a href="http://tylerchan.me">Website</a> -=-
+  <a href="http://tylerchan.me/resume.pdf">Resume</a> -=-
   <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">LinkedIn</a> -=-
   <a href="mailto:tyler@tylerchan.me">tyler@tylerchan.me</a> ==-
 </div>
