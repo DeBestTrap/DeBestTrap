@@ -1,9 +1,22 @@
 <h1 align="center">Tyler Chan</h1>
 <div align="center">
-  -== <a href="http://tylerchan.me">Website</a> -=-
-  <a href="http://tylerchan.me/resume.pdf">Resume</a> -=-
-  <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">LinkedIn</a> -=-
-  <a href="mailto:tyler@tylerchan.me">tyler@tylerchan.me</a> ==-
+  -==
+  <a href="http://tylerchan.me">
+    <i class="fa-solid fa-globe" style="color: #ff74bd;"></i>
+    Website
+  </a> -=-
+  <a href="http://tylerchan.me/resume.pdf">
+    <i class="fa-solid fa-file-lines" style="color: #ff74bd;"></i>
+    Resume
+  </a> -=-
+  <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">
+    <i class="fa-brands fa-linkedin" style="color: #ff74bd;"></i>
+    LinkedIn
+  </a> -=-
+  <a href="mailto:tyler@tylerchan.me">
+    <i class="fa-solid fa-envelope" style="color: #ff74bd;"></i>
+    tyler@tylerchan.me
+  </a> ==-
 </div>
 
 ## Welcome! よこそう！ 欢迎光临！
