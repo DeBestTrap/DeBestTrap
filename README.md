@@ -2,19 +2,19 @@
 <div align="center">
   -==
   <a href="http://tylerchan.me">
-    <i class="fa-solid fa-globe" style="color: #ff74bd;"></i>
+    <img src="images/globe-solid.svg" height="15px"></img>
     Website
   </a> -=-
   <a href="http://tylerchan.me/resume.pdf">
-    <i class="fa-solid fa-file-lines" style="color: #ff74bd;"></i>
+    <img src="images/file-lines-solid.svg" height="15px"></img>
     Resume
   </a> -=-
   <a href="https://www.linkedin.com/in/tyler-chan-b6b082186/">
-    <i class="fa-brands fa-linkedin" style="color: #ff74bd;"></i>
+    <img src="images/linkedin.svg" height="15px"></img>
     LinkedIn
   </a> -=-
   <a href="mailto:tyler@tylerchan.me">
-    <i class="fa-solid fa-envelope" style="color: #ff74bd;"></i>
+    <img src="images/envelope-solid.svg" height="15px"></img>
     tyler@tylerchan.me
   </a> ==-
 </div>
