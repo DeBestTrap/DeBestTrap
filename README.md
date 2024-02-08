@@ -28,7 +28,7 @@
 * Working on [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)!
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
 * Utilizing Stable Diffusion for a Discord Bot.
-* Making my personal website.
+* Improving my personal website.
 
 ## Previous Projects and Work:
 # [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)
