@@ -20,17 +20,32 @@
 </div>
 
 ## Welcome! よこそう！ 欢迎光临！
-- I am currently a Senior persuing a Dual BS in Computer Systems Engineering and Computer Science at Rensselaer Polytechnic Institute (RPI).
-- I am also doing a Co-Term for my MS at RPI in CS for Security and Privacy in ML.
-- My current research interests are in Generative AI models like Large Language Models, Latent Diffusion Models, etc.
+👋 Hey! I'm Tyler, and I'm currently advancing my knowledge in machine learning and AI through the Accelerated Master's Program at Rensselaer Polytechnic Institute. My journey started as a Electrical Engineering major, but after taking my first Computer Science course, I was hooked. This led me to pursue a dual degree in Computer and Systems Engineering and Computer Science. Then, the cambrian explosion of generative models happened, and the potential of these models to create "creative" and "human-like" works led me to the field of machine learning and AI. 
+- I'm currently a student at Rensselaer Polytechnic Institute (RPI)
+- My current research interests are in Large Language Models, Latent Diffusion Models, Security and Privacy in ML.
+
+## Education
+- Currently persuing a Masters of Science in Computer Science @ RPI.
+- Dual Bachelors of Science in Computer Systems Engineering and Computer Science @ RPI
 
 ## Currently working on:
+* Doing a research project about machine unlearning with [Lei Yu](https://leiyucs.github.io/) as my advisor.
+* Improving on [Utilizing IK for Generative Motion](https://github.com/generative-motion)!
 * Working on [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)!
 * Updating my previous Discord bots [Ferris](https://github.com/DeBestTrap/ferris-bot) and [Sekaidle](https://github.com/DeBestTrap/sekaidle) to utilize new Discord.py 2.0.0 features.
 * Utilizing Stable Diffusion for a Discord Bot.
 * Improving my personal website.
 
 ## Previous Projects and Work:
+# [Utilizing IK for Generative Motion](https://github.com/generative-motion/motion-with-ik)
+Adapted and enhanced an established generative motion project, originally based on the principles outlined in [Motion In-betweening via Two-stage Transformers](https://doi.org/10.1145/3550454.3555454) by Qin et al., by integrating IK controllers to optimize the efficency of the model.
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ZrFl5hJJQ5o">
+    <img src="images/ik.jpg"/>
+  </a>
+  <p>See our preview video on youtube!</p>
+</div>
+
 # [Text2Movie](https://debesttrap.github.io/Computational-Creativity/t2m.html)
 Created a pipeline to transform a simple description into a
 multi-scene movie complete with voice acting and videos, all
@@ -82,7 +97,7 @@ pills and interfacing with a touch-screen display.
 # [Sekaidle Bot](https://github.com/DeBestTrap/sekaidle)
 Sekaidle is a game where the player gets a random country silhouette and must guess the country's name within six tries.
 
-This is a creation of the country guessing game, [Wordle](https://github.com/teuteuf/worldle), that can be played in discord.
+This is a creation of the country guessing game, [Wordle](https://worldle.teuteuf.fr/), that can be played in discord.
 
 <div align="center">
   <img src="https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif" width=35% height=35%/>
@@ -104,3 +119,7 @@ Ferris is a simple bot whose purpose is to create and update polls live when use
 Recreated the classic game of pong on an Arduino Nano
 with buttons and a tiny 128x32 OLED display on a
 breadboard.
+<div align="center">
+  <img src="images/pong_bb.png"/>
+</div>
+  
