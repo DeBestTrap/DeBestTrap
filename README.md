@@ -25,7 +25,8 @@
 - My current research interests are in Large Language Models, Latent Diffusion Models, Security and Privacy in ML.
 
 ## Education
-- Currently persuing a Masters of Science in Computer Science @ RPI.
+- PhD in Computer Science @ RPI.
+- Masters of Science in Computer Science @ RPI.
 - Dual Bachelors of Science in Computer Systems Engineering and Computer Science @ RPI
 
 ## Currently working on:
