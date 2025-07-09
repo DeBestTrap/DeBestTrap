@@ -66,7 +66,7 @@ and evaluate/benchmark LoRAs for large language models
 like GPT-2, LLaMA, GPT-J, etc.
 
 <div align="center">
-  <img src="images/gradio_ui.png" width=400px>
+  <img src="images/gradio_ui.png" width=400 >
 </div>
 
 # [OpenCircuits](https://github.com/OpenCircuits/OpenCircuits)
@@ -76,7 +76,7 @@ like GPT-2, LLaMA, GPT-J, etc.
 Opencircuits is also a Rensselaer Center for Open Source (RCOS) project.
 
 <div align="center">
-  <img src="https://i.gyazo.com/2d6c58e691f385671be162ad7f639b07.gif" width=25% height=25%/>
+  <img src="https://i.gyazo.com/2d6c58e691f385671be162ad7f639b07.gif" width=200 />
 </div>
 
 Improved the busing feature by programming the ability
@@ -87,8 +87,8 @@ to select components instead individual ports to bus.
 The Automatic Pill Dispenser (APD) is a project done for the Intro to Engineering Design course at Rensselaer Polytechnic Institute during the Spring of 2022.
 
 <div align="center">
-  <img src="./images/apd_cad.png" width=25% height=25%/>
-  <img src="./images/apd_housing_unit.png" width=25% height=25%/>
+  <img src="./images/apd_cad.png" width=200 />
+  <img src="./images/apd_housing_unit.png" width=200 />
 </div>
 
 Programmed an Arduino microcontroller in a semester
@@ -101,7 +101,7 @@ Sekaidle is a game where the player gets a random country silhouette and must gu
 This is a creation of the country guessing game, [Wordle](https://worldle.teuteuf.fr/), that can be played in discord.
 
 <div align="center">
-  <img src="https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif" width=35% height=35%/>
+  <img src="https://i.gyazo.com/7f90e64e0b0f3e39603f4a5f16c21845.gif" width=200 />
 </div>
   
 Implemented a dynamic programming algorithm to
@@ -113,7 +113,7 @@ feature in discord.
 Ferris is a simple bot whose purpose is to create and update polls live when users vote on a poll.
 
 <div align="center">
-  <img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width=25% height=25%/>
+  <img src="https://i.gyazo.com/145d9b8d01ec881cc02e45f49f48fdaa.gif" width=200 />
 </div>
 
 # [Scratch Pong](https://github.com/DeBestTrap/scratch-pong)
